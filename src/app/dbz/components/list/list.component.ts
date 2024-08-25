@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-dbz-list',
+  selector: 'dbz-character-list',
   templateUrl: './list.component.html',
   styleUrl: './list.component.css'
 })
